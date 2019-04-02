@@ -5,3 +5,5 @@
 * Latest news bits, from, maybe CNN for now
 
 * TechGig latest news
+
+Updates required
