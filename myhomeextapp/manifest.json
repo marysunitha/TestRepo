@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+
+    "name": "My Home Page Extension",
+    "description": "A Chrome extenstion that will display the latest feeds from Dzone, TechGig and CNN",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "icons8-address-book-64.png",
+        "default_popup": "newIndex.html",
+        "default_title": "My Home"
+    },
+
+    "permissions": [
+        "activeTab"
+    ]
+}
